@@ -1,2 +1,2 @@
-rootProject.name = "gatling-test"
+rootProject.name = "gatling-stress-test"
 
